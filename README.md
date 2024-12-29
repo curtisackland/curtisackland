@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://curtisackland.github.io/)
 
-I'm a software developer passionate about crafting efficient and scalable solutions using modern technologies. Check out my [website](https://curtisackland.github.io/) for more about my projects and journey.
+I'm a software engineer passionate about crafting efficient and scalable solutions using modern technologies. Check out my [website](https://curtisackland.github.io/) for more about my projects and journey.
 
 ---
 
